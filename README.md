@@ -1,2 +1,4 @@
 # DataScience-Project-1
 Disease Prediction
+THIS PROJECT IS ABOUT DISEASE PREDICTION.
+WE FIND THE NULL VALUE 
